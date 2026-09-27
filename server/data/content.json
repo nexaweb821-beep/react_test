@@ -1,0 +1,284 @@
+{
+  "brand": {
+    "name": "Oriel",
+    "legal": "Oriel Studio",
+    "discipline": "Architecture & Interiors",
+    "founded": "2011",
+    "cities": [
+      "Lisbon",
+      "Copenhagen"
+    ]
+  },
+  "hero": {
+    "lines": [
+      "Calm spaces,",
+      "shaped by <em>daylight</em>",
+      "built to last."
+    ],
+    "copy": "Oriel is an architecture and interiors studio in Lisbon and Copenhagen, designing calm, material-led homes, workplaces and small hotels for people who notice the details.",
+    "image": {
+      "id": "1487958449943-2429e8be8625",
+      "alt": "Angular white-clad building with a glazed corner, set against a pale sky"
+    },
+    "caption": "Casa do Farol, Aveiro — 2023"
+  },
+  "feature": {
+    "image": {
+      "id": "1600585154340-be6161a56a0c",
+      "alt": "A low modern house at dusk, its glazed living room glowing warmly above a still pool"
+    },
+    "label": "Casa Alvor — Comporta, 2024",
+    "lines": [
+      "Built around the",
+      "way the <em>light</em> falls."
+    ]
+  },
+  "manifesto": {
+    "text": "We believe good architecture is <em>quiet</em>. It listens before it speaks, frames what is already there, and leaves room for the lives that will slowly fill it.",
+    "note": "For fourteen years we have worked across private homes, workplaces and small hotels — always with one team, from the first sketch to the final handover."
+  },
+  "projects": [
+    {
+      "name": "Casa Alvor",
+      "place": "Comporta, PT",
+      "year": "2024",
+      "type": "Residential",
+      "shape": "tall",
+      "low": false,
+      "image": {
+        "id": "1600047509807-ba8f99d2cdde",
+        "alt": "Modern house with terracotta cladding, grey panels and a planted front garden"
+      }
+    },
+    {
+      "name": "Nørrebro Loft",
+      "place": "Copenhagen, DK",
+      "year": "2023",
+      "type": "Interior",
+      "shape": "wide",
+      "low": true,
+      "image": {
+        "id": "1600607687939-ce8a6c25118c",
+        "alt": "Open-plan living room with a pale sofa, timber wall panelling and a light kitchen beyond"
+      }
+    },
+    {
+      "name": "Pavilhão Sal",
+      "place": "Aveiro, PT",
+      "year": "2025",
+      "type": "Cultural",
+      "shape": "square",
+      "low": false,
+      "image": {
+        "id": "1486718448742-163732cd1544",
+        "alt": "Ribbed terracotta facade curving against a deep blue sky"
+      }
+    },
+    {
+      "name": "Ateliê Graça",
+      "place": "Lisbon, PT",
+      "year": "2022",
+      "type": "Workplace",
+      "shape": "tall",
+      "low": true,
+      "image": {
+        "id": "1618221195710-dd6b41faaea6",
+        "alt": "Lounge with grey sofas, rust leather ottomans and a long clerestory window"
+      }
+    },
+    {
+      "name": "Hus Vejle",
+      "place": "Vejle, DK",
+      "year": "2021",
+      "type": "Residential",
+      "shape": "wide",
+      "low": false,
+      "image": {
+        "id": "1600566753190-17f0baa2a6c3",
+        "alt": "House of timber boards and dark cladding under a wide cantilevered roof"
+      }
+    },
+    {
+      "name": "Hotel Mira",
+      "place": "Porto, PT",
+      "year": "2019",
+      "type": "Hospitality",
+      "shape": "square",
+      "low": true,
+      "image": {
+        "id": "1616594039964-ae9021a400a0",
+        "alt": "Hotel suite with an upholstered bed, dark panelled walls and a brass pendant"
+      }
+    }
+  ],
+  "steps": [
+    {
+      "title": "Listen",
+      "text": "Every brief begins on site. We spend time with you and the place — the light at different hours, the way you move, what you want to keep — before we draw anything.",
+      "image": {
+        "id": "1503387762-592deb58ef4e",
+        "alt": "An architect sketching plans by hand at a timber desk"
+      }
+    },
+    {
+      "title": "Shape",
+      "text": "Sketches become models, models become drawings. We test proportion, material and daylight until each room feels inevitable rather than designed.",
+      "image": {
+        "id": "1600210492486-724fe5c67fb0",
+        "alt": "Sunlit living room with leather sofas, a gallery wall and large windows"
+      }
+    },
+    {
+      "title": "Build",
+      "text": "We stay on site until handover, working with a small circle of trusted makers so that the finished building is as considered as the first idea.",
+      "image": {
+        "id": "1541888946425-d81bb19240f5",
+        "alt": "Site team in hard hats on a concrete deck overlooking reinforcement being laid"
+      }
+    }
+  ],
+  "stats": [
+    {
+      "value": 142,
+      "suffix": "+",
+      "label": "Projects completed across Europe"
+    },
+    {
+      "value": 9,
+      "suffix": "",
+      "label": "International design awards"
+    },
+    {
+      "value": 23,
+      "suffix": "",
+      "label": "Architects & designers in two studios"
+    },
+    {
+      "value": 87,
+      "suffix": "%",
+      "label": "Of clients return for a second project"
+    }
+  ],
+  "services": [
+    {
+      "title": "Architecture",
+      "text": "New homes, careful extensions and the restoration of existing buildings — designed from the landscape inwards, with daylight and material as our first tools.",
+      "tags": [
+        "New build",
+        "Extensions",
+        "Restoration"
+      ]
+    },
+    {
+      "title": "Interior design",
+      "text": "Complete interiors for homes, hotels and workplaces. We design the shell and everything inside it, so the building and its rooms speak with one voice.",
+      "tags": [
+        "Residential",
+        "Hospitality",
+        "Workplace"
+      ]
+    },
+    {
+      "title": "Furniture & objects",
+      "text": "Bespoke joinery, lighting and small editions of furniture, made with independent workshops in Portugal and Denmark.",
+      "tags": [
+        "Joinery",
+        "Lighting",
+        "Editions"
+      ]
+    },
+    {
+      "title": "Planning & delivery",
+      "text": "Feasibility studies, permits, tendering and site supervision. One team takes responsibility from the first conversation to the keys.",
+      "tags": [
+        "Feasibility",
+        "Permits",
+        "Site supervision"
+      ]
+    }
+  ],
+  "quote": {
+    "text": "They listened for months before drawing a single line. Four years on, the house still feels as if it was always meant to be there.",
+    "name": "Ingrid Holm",
+    "project": "Hus Vejle, 2021",
+    "avatar": {
+      "id": "1438761681033-6461ffad8d80",
+      "alt": "Portrait of Ingrid Holm"
+    }
+  },
+  "journal": {
+    "intro": "Notes from the studio on material, light and the slow craft of building.",
+    "posts": [
+      {
+        "category": "Material",
+        "date": "Aug 2025",
+        "read": "6 min read",
+        "title": "In praise of lime: why we keep coming back to breathable walls",
+        "excerpt": "Lime plaster moves, softens and ages with a building. A short study of the material we specify more than any other.",
+        "image": {
+          "id": "1524758631624-e2822e304c36",
+          "alt": "Studio corner with black anglepoise lamps in front of tall timber-framed windows"
+        }
+      },
+      {
+        "category": "Process",
+        "date": "Jun 2025",
+        "read": "4 min read",
+        "title": "Drawing by hand in a digital studio",
+        "excerpt": "Every project at Oriel still starts with a pencil. Here is why the slow sketch remains our fastest way to think.",
+        "image": {
+          "id": "1505691938895-1758d7feb511",
+          "alt": "Bright room with a framed painting hung between two tall windows"
+        }
+      },
+      {
+        "category": "Place",
+        "date": "Mar 2025",
+        "read": "8 min read",
+        "title": "Two cities, one light: working between Lisbon and Copenhagen",
+        "excerpt": "Southern glare and northern low sun ask opposite things of a window. What each city has taught us about the other.",
+        "image": {
+          "id": "1545324418-cc1a3fa10c00",
+          "alt": "Apartment facade of dark timber and pale render catching low northern light"
+        }
+      }
+    ]
+  },
+  "contact": {
+    "email": "hello@oriel.studio",
+    "studios": [
+      {
+        "city": "Lisbon",
+        "lines": [
+          "Rua da Rosa 214",
+          "1200-389 Lisboa",
+          "Portugal"
+        ],
+        "phone": "+351 21 000 0000"
+      },
+      {
+        "city": "Copenhagen",
+        "lines": [
+          "Jægersborggade 41",
+          "2200 København N",
+          "Denmark"
+        ],
+        "phone": "+45 00 00 00 00"
+      }
+    ],
+    "social": [
+      {
+        "label": "Instagram",
+        "href": "https://instagram.com"
+      },
+      {
+        "label": "LinkedIn",
+        "href": "https://linkedin.com"
+      },
+      {
+        "label": "Pinterest",
+        "href": "https://pinterest.com"
+      }
+    ]
+  }
+}
